@@ -1,0 +1,6 @@
+Forum/build/**
+*.class
+*.jar
+*.prefs
+.settings
+target
